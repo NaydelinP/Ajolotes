@@ -1,0 +1,84 @@
+body {
+    background-color: antiquewhite;
+    color: darkgoldenrod;
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 30px;
+}
+
+p {
+    color:rgb(176, 174, 53);
+}
+
+.titulo {
+    color:chocolate;
+    text-align: center; 
+ 
+}
+
+
+
+.axo,.anatomia,.axo2,.Conservación{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+    border-radius: 20px;   
+}
+
+
+a{
+    color: brown;
+    text-decoration: dotted;
+    text-decoration:wavy;
+}
+
+hr {
+    border-color: brown;
+}
+
+<style>
+    .Mitologia {
+        float: left;
+        margin-right: 10px;
+        width: 50%;
+        display: flex;
+        margin-left: 25%;
+        border-radius: 20px;  
+    }
+
+    .axo2 {
+        width: 200px;
+        height: auto;
+        
+    }
+
+    .Ana {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .anatomia {
+        width: 200px;
+        height: auto;
+    }
+
+    .Con {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .Conservación {
+        width: 200px;
+        height: auto;
+    } 
+
+    h2{
+        color: brown;
+    }
+    h4 {
+        color: darkolivegreen;
+    }
+
+  
+
+
+
